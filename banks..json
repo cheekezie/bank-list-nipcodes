@@ -1,0 +1,1664 @@
+[
+    {
+        "Id": "de7d0e8a-0b4a-41e0-9456-d06443e3e512",
+        "CBNCode": "433",
+        "NIPCode": "090270",
+        "Name": "AB MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090270.png",
+        "category": "9"
+    },
+    {
+        "Id": "99dd0bd5-db6b-4c8b-90b9-06503daf7ee7",
+        "CBNCode": "924",
+        "NIPCode": "070010",
+        "Name": "ABBEY MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070010.png",
+        "category": "7"
+    },
+    {
+        "Id": "31d963ef-09b8-47b2-b24c-dfe26b8c0088",
+        "CBNCode": "398",
+        "NIPCode": "090260",
+        "Name": "ABOVE ONLY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090260.png",
+        "category": "9"
+    },
+    {
+        "Id": "13f5db18-e26e-4d5a-a177-2ce1b12da178",
+        "CBNCode": "393",
+        "NIPCode": "090197",
+        "Name": "ABU MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090197.png",
+        "category": "9"
+    },
+    {
+        "Id": 457,
+        "NIPCode": "090202",
+        "Name": "ACCELEREX NETWORK"
+    },
+    {
+        "Id": "3f0e4d8f-df4d-4b0d-8a1c-2710b62616b6",
+        "CBNCode": "044",
+        "NIPCode": "000014",
+        "Name": "ACCESS BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000014.png",
+        "category": "2"
+    },
+    {
+        "Id": "42078645-a8ad-4833-8fab-f8a1dc3b6b4f",
+        "CBNCode": "063",
+        "NIPCode": "000005",
+        "Name": "ACCESS(DIAMOND) BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000005.png",
+        "category": "2"
+    },
+    {
+        "Id": 426,
+        "NIPCode": "100013",
+        "Name": "ACCESSMONEY"
+    },
+    {
+        "Id": "28c20d60-bf6b-4936-b7ff-05e77ebc1b20",
+        "CBNCode": "936",
+        "NIPCode": "090134",
+        "Name": "ACCION MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090134.png",
+        "category": "9"
+    },
+    {
+        "Id": "32a4e0b1-8932-4de9-95cf-60a4f2109c2d",
+        "CBNCode": "953",
+        "NIPCode": "090160",
+        "Name": "ADDOSSER MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090160.png",
+        "category": "9"
+    },
+    {
+        "Id": "d1c897f0-f5cc-4b95-938c-61935854157b",
+        "CBNCode": "969",
+        "NIPCode": "090268",
+        "Name": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090268.png",
+        "category": "9"
+    },
+    {
+        "Id": 326,
+        "NIPCode": "090155",
+        "Name": "ADVANS LA FAYETTE MFB"
+    },
+    {
+        "Id": 441,
+        "NIPCode": "100028",
+        "Name": "AG MORTGAGE BANK PLC"
+    },
+    {
+        "Id": 476,
+        "NIPCode": "090371",
+        "Name": "AGOSASA MICROFINANCE BANK"
+    },
+    {
+        "Id": 304,
+        "NIPCode": "090133",
+        "Name": "AL-BARKAH MFB"
+    },
+    {
+        "Id": "10401d89-af0e-482b-85c8-75e53463ae66",
+        "CBNCode": "397",
+        "NIPCode": "090259",
+        "Name": "ALEKUN MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090259.png",
+        "category": "9"
+    },
+    {
+        "Id": 398,
+        "NIPCode": "090297",
+        "Name": "ALERT MFB"
+    },
+    {
+        "Id": 382,
+        "NIPCode": "090277",
+        "Name": "ALHAYAT MFB"
+    },
+    {
+        "Id": "384bd122-f939-44b6-8608-e4fbe05e7d75",
+        "CBNCode": "933",
+        "NIPCode": "090131",
+        "Name": "ALLWORKERS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090131.png",
+        "category": "9"
+    },
+    {
+        "Id": 340,
+        "NIPCode": "090169",
+        "Name": "ALPHAKAPITAL MFB"
+    },
+    {
+        "Id": 351,
+        "NIPCode": "090180",
+        "Name": "AMJU MFB"
+    },
+    {
+        "Id": "460788a5-5121-4d0c-97e5-eecb60f1d4e7",
+        "CBNCode": "910",
+        "NIPCode": "090116",
+        "Name": "AMML MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090116.png",
+        "category": "9"
+    },
+    {
+        "Id": "f7f289f5-77b2-4b08-bd8a-68912cc7f7a2",
+        "CBNCode": "947",
+        "NIPCode": "090143",
+        "Name": "APEKS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090143.png",
+        "category": "9"
+    },
+    {
+        "Id": 480,
+        "NIPCode": "090376",
+        "Name": "APPLE MICROFINANCE BANK"
+    },
+    {
+        "Id": 489,
+        "NIPCode": "110011",
+        "Name": "ARCA PAYMENTS COMPANY LIMITED"
+    },
+    {
+        "Id": "6ed271b9-b262-422a-bdaa-7398d82dbd46",
+        "CBNCode": "441",
+        "NIPCode": "090282",
+        "Name": "ARISE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090282.png",
+        "category": "9"
+    },
+    {
+        "Id": 274,
+        "CBNCode": "401",
+        "NIPCode": "090001",
+        "Name": "ASO SAVINGS AND LOANS"
+    },
+    {
+        "Id": "ad29943e-678b-4933-97a7-813e3e87a044",
+        "CBNCode": "979",
+        "NIPCode": "090172",
+        "Name": "ASTRAPOLARIS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090172.png",
+        "category": "9"
+    },
+    {
+        "Id": "5f23aa65-b280-485e-849c-6581b641ff57",
+        "CBNCode": "431",
+        "NIPCode": "090264",
+        "Name": "AUCHI MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090264.png",
+        "category": "9"
+    },
+    {
+        "Id": 352,
+        "NIPCode": "090188",
+        "Name": "BAINES CREDIT MFB"
+    },
+    {
+        "Id": 413,
+        "NIPCode": "090326",
+        "Name": "BALOGUN GAMBARI MFB"
+    },
+    {
+        "Id": 406,
+        "NIPCode": "090316",
+        "Name": "BAYERO MICROFINANCE BANK"
+    },
+    {
+        "Id": "e5e76dc4-7c58-4c1f-9220-9ddfeec56e85",
+        "CBNCode": "930",
+        "NIPCode": "090127",
+        "Name": "BC KASH MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090127.png",
+        "category": "9"
+    },
+    {
+        "Id": 446,
+        "NIPCode": "100052",
+        "Name": "BETA-ACCESS YELLO"
+    },
+    {
+        "Id": 468,
+        "NIPCode": "090336",
+        "Name": "BIPC MICROFINANCE BANK"
+    },
+    {
+        "Id": 288,
+        "NIPCode": "090117",
+        "Name": "BOCTRUST MICROFINANCE BANK"
+    },
+    {
+        "Id": "4aeaa8ad-ee33-469e-bd45-b8293fafdc36",
+        "CBNCode": "385",
+        "NIPCode": "090176",
+        "Name": "BOSAK MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090176.png",
+        "category": "9"
+    },
+    {
+        "Id": "c11e53a9-31e8-4427-853a-9623fdfbb061",
+        "CBNCode": "367",
+        "NIPCode": "090148",
+        "Name": "BOWEN MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090148.png",
+        "category": "9"
+    },
+    {
+        "Id": "293b4f63-489f-43db-938a-35ff01e8cc63",
+        "CBNCode": "952",
+        "NIPCode": "070015",
+        "Name": "BRENT MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070015.png",
+        "category": "7"
+    },
+    {
+        "Id": 394,
+        "NIPCode": "090293",
+        "Name": "BRETHREN MICROFINANCE BANK"
+    },
+    {
+        "Id": 403,
+        "NIPCode": "090308",
+        "Name": "BRIGHTWAY MFB"
+    },
+    {
+        "Id": 469,
+        "NIPCode": "090360",
+        "Name": "CASHCONNECT MICROFINANCE BANK"
+    },
+    {
+        "Id": "a05f6c94-1b92-4870-b3ca-af0c832c1b93",
+        "CBNCode": "317",
+        "NIPCode": "100005",
+        "Name": "CELLULANT",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100005.png",
+        "category": "10"
+    },
+    {
+        "Id": "e7adfc06-1106-495c-b73e-020d93929efd",
+        "CBNCode": "370",
+        "NIPCode": "090154",
+        "Name": "CEMCS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090154.png",
+        "category": "9"
+    },
+    {
+        "Id": "10ec2040-0783-45e3-baba-d67540c16321",
+        "CBNCode": "363",
+        "NIPCode": "090141",
+        "Name": "CHIKUM MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090141.png",
+        "category": "9"
+    },
+    {
+        "Id": "d6d77d4c-d18c-4c71-89bb-6449a74fec39",
+        "CBNCode": "364",
+        "NIPCode": "090144",
+        "Name": "CIT MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090144.png",
+        "category": "9"
+    },
+    {
+        "Id": "a64b370e-3fa7-4069-9822-cc022d8f87de",
+        "CBNCode": "023",
+        "NIPCode": "000009",
+        "Name": "CITI BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000009.png",
+        "category": "2"
+    },
+    {
+        "Id": 479,
+        "NIPCode": "090374",
+        "Name": "COASTLINE MICROFINANCE BANK"
+    },
+    {
+        "Id": "64703dc9-2c83-4ba4-b10d-1c2ec7cf7633",
+        "CBNCode": "922",
+        "NIPCode": "090130",
+        "Name": "CONSUMER MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090130.png",
+        "category": "9"
+    },
+    {
+        "Id": 444,
+        "NIPCode": "100032",
+        "Name": "CONTEC GLOBAL"
+    },
+    {
+        "Id": 472,
+        "NIPCode": "090365",
+        "Name": "Corestep MICROFINANCE BANK"
+    },
+    {
+        "Id": 256,
+        "NIPCode": "060001",
+        "Name": "CORONATION"
+    },
+    {
+        "Id": 261,
+        "NIPCode": "070006",
+        "Name": "COVENANT MFB"
+    },
+    {
+        "Id": "760b849d-4dc4-4f03-99f2-2f2c5307896b",
+        "CBNCode": "373",
+        "NIPCode": "090159",
+        "Name": "CREDIT AFRIQUE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090159.png",
+        "category": "9"
+    },
+    {
+        "Id": 486,
+        "NIPCode": "090391",
+        "Name": "Davodani Microfinance Bank"
+    },
+    {
+        "Id": "a2f14132-2180-4291-9344-94de09d73ddd",
+        "CBNCode": "380",
+        "NIPCode": "090167",
+        "Name": "DAYLIGHT MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090167.png",
+        "category": "9"
+    },
+    {
+        "Id": "212b9aa1-4119-4016-93b4-a7bb482ca202",
+        "CBNCode": "371",
+        "NIPCode": "090156",
+        "Name": "E-BARCS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090156.png",
+        "category": "9"
+    },
+    {
+        "Id": 395,
+        "NIPCode": "090294",
+        "Name": "EAGLE FLIGHT MFB"
+    },
+    {
+        "Id": "53d994b8-9ad5-41b1-9f0a-e010de6cc649",
+        "CBNCode": "302",
+        "NIPCode": "100021",
+        "Name": "EARTHOLEUM",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100021.png",
+        "category": "10"
+    },
+    {
+        "Id": "a89100e0-1ded-4774-949e-7f668e88147a",
+        "CBNCode": "050",
+        "NIPCode": "000010",
+        "Name": "ECOBANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000010.png",
+        "category": "2"
+    },
+    {
+        "Id": 421,
+        "NIPCode": "100008",
+        "Name": "ECOBANK XPRESS ACCOUNT"
+    },
+    {
+        "Id": 404,
+        "NIPCode": "090310",
+        "Name": "EDFIN MFB"
+    },
+    {
+        "Id": 485,
+        "NIPCode": "090389",
+        "Name": "EK-Reliable Microfinance Bank"
+    },
+    {
+        "Id": "059e9cbe-7def-4713-aa95-0cde5d051d53",
+        "CBNCode": "903",
+        "NIPCode": "090097",
+        "Name": "EKONDO MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090097.png",
+        "category": "9"
+    },
+    {
+        "Id": "caadae07-80ea-4786-80cd-fccd7a1c7416",
+        "CBNCode": "973",
+        "NIPCode": "090273",
+        "Name": "EMERALDS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090273.png",
+        "category": "9"
+    },
+    {
+        "Id": "d19e6e53-fe44-4648-b4d4-d7000e88ffd7",
+        "CBNCode": "972",
+        "NIPCode": "090114",
+        "Name": "EMPIRE TRUST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090114.png",
+        "category": "9"
+    },
+    {
+        "Id": "b8bb951b-3568-46bb-bd54-58b6f041c6bd",
+        "CBNCode": "084",
+        "NIPCode": "000019",
+        "Name": "ENTERPRISE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000019.png",
+        "category": "2"
+    },
+    {
+        "Id": 353,
+        "NIPCode": "090189",
+        "Name": "ESAN MFB"
+    },
+    {
+        "Id": 337,
+        "NIPCode": "090166",
+        "Name": "ESO-E MICROFINANCE BANK"
+    },
+    {
+        "Id": "b2c5e5d9-23be-43bb-a26e-b10f5824f75f",
+        "CBNCode": "306",
+        "NIPCode": "100006",
+        "Name": "ETRANZACT",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100006.png",
+        "category": "10"
+    },
+    {
+        "Id": 459,
+        "NIPCode": "090304",
+        "Name": "EVANGEL MFB"
+    },
+    {
+        "Id": 466,
+        "NIPCode": "090332",
+        "Name": "EVERGREEN MICROFINANCE BANK"
+    },
+    {
+        "Id": 463,
+        "CBNCode": "50126",
+        "NIPCode": "090328",
+        "Name": "EYOWO MICROFINANCE BANK"
+    },
+    {
+        "Id": "9904961a-e71e-4abe-8041-6741a4b888cf",
+        "CBNCode": "387",
+        "NIPCode": "090179",
+        "Name": "FAST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090179.png",
+        "category": "9"
+    },
+    {
+        "Id": 280,
+        "NIPCode": "090107",
+        "Name": "FBN MORGAGES LIMITED"
+    },
+    {
+        "Id": "7d0b81a0-b9ff-4fa2-bf72-c3e2c7953776",
+        "CBNCode": "923",
+        "NIPCode": "060002",
+        "Name": "FBNQUEST MERCHANT BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/060002.png",
+        "category": "7"
+    },
+    {
+        "Id": "89c798d2-43df-423e-bb18-dbb9598add3d",
+        "CBNCode": "214",
+        "NIPCode": "000003",
+        "Name": "FIRST CITY MONUMENT BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000003.png",
+        "category": "2"
+    },
+    {
+        "Id": "bf57f70d-4f65-4c0b-a6b6-e6b2ad81eb4c",
+        "CBNCode": "954",
+        "NIPCode": "100031",
+        "Name": "FCMB MOBILE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100031.png",
+        "category": "10"
+    },
+    {
+        "Id": 392,
+        "NIPCode": "090290",
+        "Name": "FCT MFB"
+    },
+    {
+        "Id": 408,
+        "NIPCode": "090318",
+        "Name": "FEDERAL UNIVERSITY DUTSE MICROFINANCE BANK"
+    },
+    {
+        "Id": 399,
+        "NIPCode": "090298",
+        "Name": "FEDERALPOLY NASARAWAMFB"
+    },
+    {
+        "Id": "19327f8c-bd60-47b2-b09c-c79ebcd71d71",
+        "CBNCode": "314",
+        "NIPCode": "100001",
+        "Name": "FET",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100001.png",
+        "category": "10"
+    },
+    {
+        "Id": "03776f26-d6a2-48af-a00e-0969d778cf07",
+        "CBNCode": "369",
+        "NIPCode": "090153",
+        "Name": "FFS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090153.png",
+        "category": "9"
+    },
+    {
+        "Id": "a16e2fc7-c7c8-4150-b402-619a665d383f",
+        "CBNCode": "070",
+        "NIPCode": "000007",
+        "Name": "FIDELITY BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000007.png",
+        "category": "2"
+    },
+    {
+        "Id": "a695c679-18d3-4be3-b986-10e112ac4bc8",
+        "CBNCode": "X",
+        "NIPCode": "100019",
+        "Name": "FIDELITY MOBILE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100019.png",
+        "category": "10"
+    },
+    {
+        "Id": "727d9430-e47f-4582-a63d-217454f0530f",
+        "CBNCode": "929",
+        "NIPCode": "090126",
+        "Name": "FIDFUND MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090126.png",
+        "category": "9"
+    },
+    {
+        "Id": "1db81ea0-acfd-4286-8633-0b578ecca671",
+        "CBNCode": "906",
+        "NIPCode": "090111",
+        "Name": "FINATRUST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090111.png",
+        "category": "9"
+    },
+    {
+        "Id": 386,
+        "NIPCode": "090281",
+        "Name": "FINEX MFB"
+    },
+    {
+        "Id": 473,
+        "NIPCode": "090366",
+        "Name": "Firmus MICROFINANCE BANK"
+    },
+    {
+        "Id": "7def8856-6fa6-4e39-b4ad-9d5985b7dab9",
+        "CBNCode": "011",
+        "NIPCode": "000016",
+        "Name": "FIRST BANK OF NIGERIA",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000016.png",
+        "category": "2"
+    },
+    {
+        "Id": "8ffd0153-1ec7-47f6-a0b7-df509c9fceb4",
+        "CBNCode": "959",
+        "NIPCode": "070014",
+        "Name": "FIRST GENERATION MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070014.png",
+        "category": "7"
+    },
+    {
+        "Id": 334,
+        "NIPCode": "090163",
+        "Name": "FIRST MULTIPLE MFB"
+    },
+    {
+        "Id": 389,
+        "NIPCode": "090285",
+        "Name": "FIRST OPTION MFB"
+    },
+    {
+        "Id": 335,
+        "NIPCode": "090164",
+        "Name": "FIRST ROYAL MICROFINANCE BANK"
+    },
+    {
+        "Id": 427,
+        "NIPCode": "100014",
+        "Name": "FIRSTMONIE WALLET"
+    },
+    {
+        "Id": "7032cd2e-e7cc-455a-9dae-42c5d7a3c80e",
+        "CBNCode": "501",
+        "NIPCode": "070002",
+        "Name": "FORTIS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070002.png",
+        "category": "9"
+    },
+    {
+        "Id": 429,
+        "NIPCode": "100016",
+        "Name": "FORTISMOBILE"
+    },
+    {
+        "Id": "ba7f79e8-f0de-4ddc-960a-f51591f10e55",
+        "CBNCode": "601",
+        "NIPCode": "400001",
+        "Name": "FSDH",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/400001.png",
+        "category": "6"
+    },
+    {
+        "Id": 316,
+        "NIPCode": "090145",
+        "Name": "FULL RANGE MFB"
+    },
+    {
+        "Id": "4306c495-c7a7-45e0-b5ec-dca28d5ed1e2",
+        "CBNCode": "372",
+        "NIPCode": "090158",
+        "Name": "FUTO MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090158.png",
+        "category": "9"
+    },
+    {
+        "Id": 339,
+        "NIPCode": "090168",
+        "Name": "GASHUA MICROFINANCE BANK"
+    },
+    {
+        "Id": "365486f3-8463-44a1-959f-3c6cf98bc03a",
+        "CBNCode": "921",
+        "NIPCode": "070009",
+        "Name": "GATEWAY MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070009.png",
+        "category": "7"
+    },
+    {
+        "Id": 255,
+        "CBNCode": "00103",
+        "NIPCode": "000027",
+        "Name": "GLOBUS BANK"
+    },
+    {
+        "Id": 383,
+        "NIPCode": "090278",
+        "Name": "GLORY MFB"
+    },
+    {
+        "Id": "60f078a3-3bfa-431c-a663-96be6c0a62be",
+        "CBNCode": "991",
+        "NIPCode": "100022",
+        "Name": "STERLING MOBILE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100022.png",
+        "category": "10"
+    },
+    {
+        "Id": "8943df00-7abd-4315-aeae-9dc72d2de229",
+        "CBNCode": "917",
+        "NIPCode": "090122",
+        "Name": "GOWANS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090122.png",
+        "category": "9"
+    },
+    {
+        "Id": "2c5fd58f-189d-4370-9754-8e226487c6b2",
+        "CBNCode": "386",
+        "NIPCode": "090178",
+        "Name": "GREENBANK MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090178.png",
+        "category": "9"
+    },
+    {
+        "Id": 375,
+        "NIPCode": "090269",
+        "Name": "GREENVILLE MICROFINANCE BANK"
+    },
+    {
+        "Id": "b5aee716-daf3-40a0-8545-87528e684ba2",
+        "CBNCode": "391",
+        "NIPCode": "090195",
+        "Name": "GROOMING MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090195.png",
+        "category": "9"
+    },
+    {
+        "Id": "13cd20b5-9a04-4b6e-b28b-62883aaa80ad",
+        "CBNCode": "058",
+        "NIPCode": "000013",
+        "Name": "GTBANK PLC",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000013.png",
+        "category": "2"
+    },
+    {
+        "Id": 484,
+        "NIPCode": "090385",
+        "Name": "GTI Microfinance Bank"
+    },
+    {
+        "Id": 422,
+        "NIPCode": "100009",
+        "Name": "GTMOBILE"
+    },
+    {
+        "Id": "570753a1-014f-42a2-a04c-e96809a248a0",
+        "CBNCode": "366",
+        "NIPCode": "090147",
+        "Name": "HACKMAN MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090147.png",
+        "category": "9"
+    },
+    {
+        "Id": 272,
+        "NIPCode": "070017",
+        "Name": "HAGGAI MORTGAGE BANK"
+    },
+    {
+        "Id": 393,
+        "NIPCode": "090291",
+        "Name": "HALA MFB"
+    },
+    {
+        "Id": "4283f0f1-d34f-4fa8-b711-7b574472e8a2",
+        "CBNCode": "926",
+        "NIPCode": "090121",
+        "Name": "HASAL MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090121.png",
+        "category": "9"
+    },
+    {
+        "Id": "780233ac-6197-4f80-a1e5-c58d2bb30c43",
+        "CBNCode": "324",
+        "NIPCode": "100017",
+        "Name": "HEDONMARK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100017.png",
+        "category": "10"
+    },
+    {
+        "Id": "6b789ee3-6755-41f9-94b4-c1d46bcab09b",
+        "CBNCode": "030",
+        "NIPCode": "000020",
+        "Name": "HERITAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000020.png",
+        "category": "2"
+    },
+    {
+        "Id": "4f26fbd4-9b69-4dbb-a3a4-f4ea02a5aca3",
+        "CBNCode": "920",
+        "NIPCode": "090118",
+        "Name": "IBILE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090118.png",
+        "category": "9"
+    },
+    {
+        "Id": 461,
+        "NIPCode": "090324",
+        "Name": "IKENNE MFB"
+    },
+    {
+        "Id": 384,
+        "NIPCode": "090279",
+        "Name": "IKIRE MFB"
+    },
+    {
+        "Id": 475,
+        "NIPCode": "090370",
+        "Name": "ILASAN MICROFINANCE BANK"
+    },
+    {
+        "Id": "0814cff0-dc58-4023-b612-103278376dd7",
+        "CBNCode": "974",
+        "NIPCode": "090258",
+        "Name": "IMO STATE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090258.png",
+        "category": "9"
+    },
+    {
+        "Id": 437,
+        "NIPCode": "100024",
+        "Name": "IMPERIAL HOMES MORTGAGE BANK"
+    },
+    {
+        "Id": "bf04c46d-8c16-4dbe-9f86-653bb6802c8d",
+        "CBNCode": "958",
+        "NIPCode": "090157",
+        "Name": "INFINITY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090157.png",
+        "category": "9"
+    },
+    {
+        "Id": 271,
+        "NIPCode": "070016",
+        "Name": "INFINITY TRUST MORTGAGE BANK"
+    },
+    {
+        "Id": "851ccd32-ad8e-4d8d-822e-d3dacf8f6292",
+        "CBNCode": "937",
+        "NIPCode": "100029",
+        "Name": "INNOVECTIVES KESH",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100029.png",
+        "category": "11"
+    },
+    {
+        "Id": 440,
+        "NIPCode": "100027",
+        "Name": "INTELLIFIN"
+    },
+    {
+        "Id": "5a893cc4-cbd6-4f72-9283-6a9d6ee69df3",
+        "CBNCode": "949",
+        "NIPCode": "090149",
+        "Name": "IRL MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090149.png",
+        "category": "9"
+    },
+    {
+        "Id": 481,
+        "NIPCode": "090377",
+        "Name": "ISALEOYO MICROFINANCE BANK"
+    },
+    {
+        "Id": "cfad5597-84a4-42a3-800f-0061f217699d",
+        "CBNCode": "301",
+        "NIPCode": "000006",
+        "Name": "JAIZ BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000006.png",
+        "category": "2"
+    },
+    {
+        "Id": 275,
+        "NIPCode": "090003",
+        "Name": "JUBILEELIFE"
+    },
+    {
+        "Id": 487,
+        "NIPCode": "110008",
+        "Name": "KADICK INTEGRATION LIMITED"
+    },
+    {
+        "Id": 409,
+        "NIPCode": "090320",
+        "Name": "KADPOLY MICROFINANCE BANK"
+    },
+    {
+        "Id": 355,
+        "NIPCode": "090191",
+        "Name": "KCMB MFB"
+    },
+    {
+        "Id": 428,
+        "NIPCode": "100015",
+        "Name": "KEGOW"
+    },
+    {
+        "Id": "eea7b64a-2565-41de-a7ce-2daefa129f07",
+        "CBNCode": "082",
+        "NIPCode": "000002",
+        "Name": "KEYSTONE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000002.png",
+        "category": "2"
+    },
+    {
+        "Id": 400,
+        "NIPCode": "090299",
+        "Name": "KONTAGORA MFB"
+    },
+    {
+        "Id": 373,
+        "CBNCode": "50211",
+        "NIPCode": "090267",
+        "Name": "KUDA MICROFINANCE BANK"
+    },
+    {
+        "Id": 348,
+        "NIPCode": "090177",
+        "Name": "LAPO MFB"
+    },
+    {
+        "Id": 377,
+        "NIPCode": "090271",
+        "Name": "LAVENDER MICROFINANCE BANK"
+    },
+    {
+        "Id": 267,
+        "NIPCode": "070012",
+        "Name": "LBIC MORTGAGE BANK"
+    },
+    {
+        "Id": 477,
+        "NIPCode": "090372",
+        "Name": "LEGEND MICROFINANCE BANK"
+    },
+    {
+        "Id": 371,
+        "NIPCode": "090265",
+        "Name": "LOVONUS MICROFINANCE BANK"
+    },
+    {
+        "Id": 411,
+        "NIPCode": "090323",
+        "Name": "MAINLAND MICROFINANCE BANK"
+    },
+    {
+        "Id": "ced3cc01-7735-4550-86b3-b06b294a0297",
+        "CBNCode": "960",
+        "NIPCode": "090171",
+        "Name": "MAINSTREET MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090171.png",
+        "category": "9"
+    },
+    {
+        "Id": 345,
+        "NIPCode": "090174",
+        "Name": "MALACHY MFB"
+    },
+    {
+        "Id": 483,
+        "NIPCode": "090383",
+        "Name": "MANNY MICROFINANCE BANK"
+    },
+    {
+        "Id": 410,
+        "NIPCode": "090321",
+        "Name": "MAYFAIR MFB"
+    },
+    {
+        "Id": 273,
+        "NIPCode": "070019",
+        "Name": "MAYFRESH MORTGAGE BANK"
+    },
+    {
+        "Id": "06ec333d-79b2-43e7-ad0d-2a333129cb5f",
+        "CBNCode": "802",
+        "NIPCode": "090280",
+        "Name": "MEGAPRAISE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090280.png",
+        "category": "9"
+    },
+    {
+        "Id": 381,
+        "NIPCode": "090275",
+        "Name": "MERIDIAN MFB"
+    },
+    {
+        "Id": "7001488b-341b-49f7-8897-17b6d9d2fc94",
+        "CBNCode": "941",
+        "NIPCode": "090136",
+        "Name": "MICROCRED MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090136.png",
+        "category": "9"
+    },
+    {
+        "Id": "8c432f15-5a91-42a5-a872-2c7d2c0f373e",
+        "CBNCode": "981",
+        "NIPCode": "100011",
+        "Name": "KUDA MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100011.png",
+        "category": "10"
+    },
+    {
+        "Id": 470,
+        "NIPCode": "090362",
+        "Name": "MOLUSI MICROFINANCE BANK"
+    },
+    {
+        "Id": 433,
+        "NIPCode": "100020",
+        "Name": "MONEYBOX"
+    },
+    {
+        "Id": "6af27542-350f-449c-a96b-5a4e4e8f4486",
+        "CBNCode": "951",
+        "NIPCode": "090129",
+        "Name": "MONEY TRUST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090129.png",
+        "category": "9"
+    },
+    {
+        "Id": 354,
+        "NIPCode": "090190",
+        "Name": "MUTUAL BENEFITS MFB"
+    },
+    {
+        "Id": "22256f75-af24-4a42-839a-851a5c0fb822",
+        "CBNCode": "966",
+        "NIPCode": "090151",
+        "Name": "MUTUAL TRUST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090151.png",
+        "category": "9"
+    },
+    {
+        "Id": 323,
+        "NIPCode": "090152",
+        "Name": "NARGATA MFB"
+    },
+    {
+        "Id": "7f1d4fc0-be52-4203-92ac-b34bccde828d",
+        "CBNCode": "567",
+        "NIPCode": "090263",
+        "Name": "NIGERIAN NAVY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090263.png",
+        "category": "9"
+    },
+    {
+        "Id": "4f2ffa1a-5319-48fe-89fc-2ee4df25173e",
+        "CBNCode": "931",
+        "NIPCode": "090128",
+        "Name": "NDIORAH MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090128.png",
+        "category": "9"
+    },
+    {
+        "Id": 464,
+        "NIPCode": "090329",
+        "Name": "NEPTUNE MICROFINANCE BANK"
+    },
+    {
+        "Id": 482,
+        "NIPCode": "090378",
+        "Name": "NEW GOLDEN PASTURES MICROFINANCE BANK"
+    },
+    {
+        "Id": 281,
+        "NIPCode": "090108",
+        "Name": "NEW PRUDENTIAL BANK"
+    },
+    {
+        "Id": "9310a662-e65a-4083-b4c8-8ed7cc8f1610",
+        "CBNCode": "971",
+        "NIPCode": "090205",
+        "Name": "NEW DAWN MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090205.png",
+        "category": "9"
+    },
+    {
+        "Id": "d2a8b531-4899-45c7-b337-05493317e672",
+        "CBNCode": "999",
+        "NIPCode": "999999",
+        "Name": "NIP VIRTUAL BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/999999.png",
+        "category": "11"
+    },
+    {
+        "Id": 357,
+        "NIPCode": "090194",
+        "Name": "NIRSAL NATIONAL MICROFINANCE BANK"
+    },
+    {
+        "Id": 388,
+        "NIPCode": "090283",
+        "Name": "NNEW WOMEN MFB"
+    },
+    {
+        "Id": 258,
+        "NIPCode": "060003",
+        "Name": "NOVA MB"
+    },
+    {
+        "Id": "9063cd89-ce76-45ad-a7a8-79c53a990f4a",
+        "CBNCode": "982",
+        "NIPCode": "070001",
+        "Name": "NPF MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070001.png",
+        "category": "9"
+    },
+    {
+        "Id": 471,
+        "NIPCode": "090364",
+        "Name": "NUTURE MFB"
+    },
+    {
+        "Id": 467,
+        "NIPCode": "090333",
+        "Name": "OCHE MFB"
+    },
+    {
+        "Id": "e7d41d4d-7255-49e0-be10-7c669b4a3611",
+        "CBNCode": "915",
+        "NIPCode": "090119",
+        "Name": "OHAFIA MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090119.png",
+        "category": "9"
+    },
+    {
+        "Id": "5b6e234d-372d-4714-948c-20f1efaf2a8f",
+        "CBNCode": "374",
+        "NIPCode": "090161",
+        "Name": "OKPOGA MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090161.png",
+        "category": "9"
+    },
+    {
+        "Id": "39360585-3339-4f7f-ba7e-0ac21555d0b9",
+        "CBNCode": "355",
+        "NIPCode": "090272",
+        "Name": "OLABISI ONABANJO UNIVERSITY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090272.png",
+        "category": "9"
+    },
+    {
+        "Id": 396,
+        "NIPCode": "090295",
+        "Name": "OMIYE MFB"
+    },
+    {
+        "Id": "8d6f8cdd-e849-45b4-a10d-85cdfaab70fa",
+        "CBNCode": "901",
+        "NIPCode": "070007",
+        "Name": "OMOLUABI SAVINGS",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070007.png",
+        "category": "7"
+    },
+    {
+        "Id": "e0ce424a-e9f3-42b0-a16a-add107a079c4",
+        "CBNCode": "565",
+        "NIPCode": "100026",
+        "Name": "ONE FINANCE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100026.png",
+        "category": "9"
+    },
+    {
+        "Id": "925c6f3a-e37a-4c1a-9f10-beaf133dcc77",
+        "CBNCode": "327",
+        "NIPCode": "100002",
+        "Name": "PAGATECH",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100002.png",
+        "category": "10"
+    },
+    {
+        "Id": 263,
+        "NIPCode": "070008",
+        "Name": "PAGE FINANCIALS"
+    },
+    {
+        "Id": 445,
+        "CBNCode": "100033",
+        "NIPCode": "100033",
+        "Name": "PALMPAY"
+    },
+    {
+        "Id": "c485ea87-f840-45dc-acdd-107635aa1378",
+        "CBNCode": "311",
+        "NIPCode": "100003",
+        "Name": "PARKWAY-READYCASH",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100003.png",
+        "category": "10"
+    },
+    {
+        "Id": 276,
+        "CBNCode": "520",
+        "NIPCode": "090004",
+        "Name": "PARRALEX"
+    },
+    {
+        "Id": 407,
+        "NIPCode": "090317",
+        "Name": "PATRICK GOLD"
+    },
+    {
+        "Id": "ed4fcffc-6a3f-46af-bf97-f7bdf37d0a6c",
+        "CBNCode": "329",
+        "NIPCode": "110001",
+        "Name": "PAYATTITUDE ONLINE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/110001.png",
+        "category": "11"
+    },
+    {
+        "Id": "8b51b0b6-6def-40e8-b89a-a07c6bbbb1d3",
+        "CBNCode": "305",
+        "NIPCode": "100004",
+        "Name": "PAYCOM",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100004.png",
+        "category": "10"
+    },
+    {
+        "Id": 308,
+        "NIPCode": "090137",
+        "Name": "PECAN TRUST MICROFINANCE BANK"
+    },
+    {
+        "Id": "d5fc3446-f876-4fcf-85bf-2ab3235c9844",
+        "CBNCode": "392",
+        "NIPCode": "090196",
+        "Name": "PENNYWISE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090196.png",
+        "category": "9"
+    },
+    {
+        "Id": "dd669fbb-3176-45de-9fea-944b3530ae83",
+        "CBNCode": "939",
+        "NIPCode": "090135",
+        "Name": "PERSONAL TRUST MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090135.png",
+        "category": "9"
+    },
+    {
+        "Id": 336,
+        "NIPCode": "090165",
+        "Name": "PETRA MICROFINANCE BANK"
+    },
+    {
+        "Id": 391,
+        "NIPCode": "090289",
+        "Name": "PILLAR MFB"
+    },
+    {
+        "Id": "47e33e0c-f4fc-406f-bb0b-8c88ecaab30d",
+        "CBNCode": "994",
+        "NIPCode": "070013",
+        "Name": "PLATINUM MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070013.png",
+        "category": "7"
+    },
+    {
+        "Id": "82405fd6-996b-4fe9-b846-c3b569f60852",
+        "CBNCode": "076",
+        "NIPCode": "000008",
+        "Name": "POLARIS BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000008.png",
+        "category": "2"
+    },
+    {
+        "Id": 397,
+        "NIPCode": "090296",
+        "Name": "POLYUWANNA MFB"
+    },
+    {
+        "Id": "53ca7c9c-f171-4c21-bf61-d886d108cd68",
+        "CBNCode": "360",
+        "NIPCode": "090274",
+        "Name": "PRESTIGE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090274.png",
+        "category": "9"
+    },
+    {
+        "Id": "778965c7-e1c7-44be-b02a-131bf19306d5",
+        "CBNCode": "101",
+        "NIPCode": "000023",
+        "Name": "PROVIDUS BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000023.png",
+        "category": "2"
+    },
+    {
+        "Id": 401,
+        "NIPCode": "090303",
+        "Name": "PURPLEMONEY MFB"
+    },
+    {
+        "Id": "0ee0fb9a-6ee7-42b1-8717-6552d4adf9c7",
+        "CBNCode": "399",
+        "NIPCode": "090261",
+        "Name": "QUICKFUND MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090261.png",
+        "category": "9"
+    },
+    {
+        "Id": 341,
+        "NIPCode": "090170",
+        "Name": "RAHAMA MFB"
+    },
+    {
+        "Id": "f4bc71c3-82e2-4720-a61d-7fd0a67b1a03",
+        "CBNCode": "902",
+        "NIPCode": "000024",
+        "Name": "RAND MERCHANT BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000024.png",
+        "category": "6"
+    },
+    {
+        "Id": "b8f6b4ff-a9f3-40ee-8600-400491ca0d92",
+        "CBNCode": "925",
+        "NIPCode": "070011",
+        "Name": "REFUGE MORTGAGE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070011.png",
+        "category": "7"
+    },
+    {
+        "Id": "7fd3696d-2388-49ad-a12a-761d299fbb4c",
+        "CBNCode": "919",
+        "NIPCode": "090125",
+        "Name": "REGENT MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090125.png",
+        "category": "9"
+    },
+    {
+        "Id": 344,
+        "NIPCode": "090173",
+        "Name": "RELIANCE MFB"
+    },
+    {
+        "Id": "26ef9577-b651-4975-af76-deed20dab14e",
+        "CBNCode": "394",
+        "NIPCode": "090198",
+        "Name": "RENMONEY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090198.png",
+        "category": "9"
+    },
+    {
+        "Id": 460,
+        "NIPCode": "090322",
+        "Name": "REPHIDIM MICROFINANCE BANK"
+    },
+    {
+        "Id": "8ca5271f-3127-4113-b9de-6151f7864d8a",
+        "CBNCode": "934",
+        "NIPCode": "090132",
+        "Name": "RICHWAY MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090132.png",
+        "category": "9"
+    },
+    {
+        "Id": 490,
+        "NIPCode": "090405",
+        "Name": "ROLEZ MICROFINANCE BANK"
+    },
+    {
+        "Id": 309,
+        "NIPCode": "090138",
+        "Name": "ROYAL EXCHANGE MICROFINANCE BANK"
+    },
+    {
+        "Id": "5E664383-D6E1-4BE9-AA03-F5B3007418DC",
+        "CBNCode": "125",
+        "NIPCode": "090175",
+        "Name": "Rubies MFB | Highstreet MFB",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090175.png",
+        "category": "9"
+    },
+    {
+        "Id": 390,
+        "NIPCode": "090286",
+        "Name": "SAFE HAVEN MFB"
+    },
+    {
+        "Id": 278,
+        "NIPCode": "090006",
+        "Name": "SAFETRUST"
+    },
+    {
+        "Id": "cbce2370-0a5e-47a5-9a15-ecc2b76b3217",
+        "CBNCode": "945",
+        "NIPCode": "090140",
+        "Name": "SAGAMU MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090140.png",
+        "category": "9"
+    },
+    {
+        "Id": "a1248337-98f6-4b3f-89b8-7df2cc51338f",
+        "CBNCode": "907",
+        "NIPCode": "090112",
+        "Name": "SEED CAPITAL MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090112.png",
+        "category": "9"
+    },
+    {
+        "Id": 474,
+        "NIPCode": "090369",
+        "Name": "SEEDVEST MICROFINANCE BANK"
+    },
+    {
+        "Id": 420,
+        "NIPCode": "100007",
+        "Name": "STANBIC IBTC @EASE WALLET"
+    },
+    {
+        "Id": "8af7996d-c0a5-4ca9-82d4-7fb3e4790b59",
+        "CBNCode": "221",
+        "NIPCode": "000012",
+        "Name": "STANBIC IBTC BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000012.png",
+        "category": "2"
+    },
+    {
+        "Id": 249,
+        "CBNCode": "068",
+        "NIPCode": "000021",
+        "Name": "STANDARD CHARTERED BANK"
+    },
+    {
+        "Id": 333,
+        "NIPCode": "090162",
+        "Name": "STANFORD MFB"
+    },
+    {
+        "Id": "bcc141b7-e2e4-4968-ae44-01c478a6b95a",
+        "CBNCode": "400",
+        "NIPCode": "090262",
+        "Name": "STELLAS MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090262.png",
+        "category": "9"
+    },
+    {
+        "Id": "d8a85169-bc52-42d3-973d-7294cb155ca0",
+        "CBNCode": "232",
+        "NIPCode": "000001",
+        "Name": "STERLING BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000001.png",
+        "category": "2"
+    },
+    {
+        "Id": 402,
+        "NIPCode": "090305",
+        "Name": "SULSAP MFB"
+    },
+    {
+        "Id": "ce24fd75-d50d-4171-a8ca-8086a67bb198",
+        "CBNCode": "100",
+        "NIPCode": "000022",
+        "Name": "SUNTRUST BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000022.png",
+        "category": "2"
+    },
+    {
+        "Id": "927ddcac-da38-4910-bd9f-e3b1c30d4748",
+        "CBNCode": "992",
+        "NIPCode": "100023",
+        "Name": "TAGPAY",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100023.png",
+        "category": "10"
+    },
+    {
+        "Id": "c669c3b2-f184-490f-8b3c-05a98c445908",
+        "CBNCode": "330",
+        "NIPCode": "000026",
+        "Name": "TAJ BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000026.png",
+        "category": "2"
+    },
+    {
+        "Id": "9f48c1f7-05e6-4e7b-80c7-94ea43d20ab6",
+        "CBNCode": "909",
+        "NIPCode": "090115",
+        "Name": "TCF MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090115.png",
+        "category": "9"
+    },
+    {
+        "Id": "4e892d51-9b81-4d73-b485-937308f88527",
+        "CBNCode": "319",
+        "NIPCode": "100010",
+        "Name": "TEASYMOBILE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100010.png",
+        "category": "10"
+    },
+    {
+        "Id": 478,
+        "NIPCode": "090373",
+        "Name": "TF MICROFINANCE BANK"
+    },
+    {
+        "Id": 253,
+        "CBNCode": "102",
+        "NIPCode": "000025",
+        "Name": "TITAN TRUST BANK"
+    },
+    {
+        "Id": "da611d55-0720-4775-a8b8-6200f6fc431f",
+        "CBNCode": "948",
+        "NIPCode": "090146",
+        "Name": "TRIDENT MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090146.png",
+        "category": "9"
+    },
+    {
+        "Id": 462,
+        "NIPCode": "090327",
+        "Name": "TRUST MFB"
+    },
+    {
+        "Id": 294,
+        "NIPCode": "090123",
+        "Name": "TRUSTBANC J6 MICROFINANCE BANK LIMITED"
+    },
+    {
+        "Id": "070499c4-d2c9-431c-87d9-039fa73461e8",
+        "CBNCode": "523",
+        "NIPCode": "090005",
+        "Name": "TRUSTBOND",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090005.png",
+        "category": "7"
+    },
+    {
+        "Id": "7739091e-b0aa-452f-80f6-164487b4f005",
+        "CBNCode": "436",
+        "NIPCode": "090276",
+        "Name": "TRUSTFUND MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090276.png",
+        "category": "9"
+    },
+    {
+        "Id": 405,
+        "NIPCode": "090315",
+        "Name": "U AND C MFB"
+    },
+    {
+        "Id": 465,
+        "NIPCode": "090331",
+        "Name": "UNAAB MFB"
+    },
+    {
+        "Id": 372,
+        "NIPCode": "090266",
+        "Name": "UNIBEN MICROFINANCE BANK"
+    },
+    {
+        "Id": 356,
+        "NIPCode": "090193",
+        "Name": "UNICAL MFB"
+    },
+    {
+        "Id": "762bbdcc-a6fb-411c-b123-b59edb159cd1",
+        "CBNCode": "032",
+        "NIPCode": "000018",
+        "Name": "UNION BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000018.png",
+        "category": "2"
+    },
+    {
+        "Id": "0a854c3a-f6ec-4e19-89cc-368ae561bcb8",
+        "CBNCode": "033",
+        "NIPCode": "000004",
+        "Name": "UNITED BANK FOR AFRICA",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000004.png",
+        "category": "2"
+    },
+    {
+        "Id": "8f12f3d2-5370-4fba-81d7-1a8630a031ff",
+        "CBNCode": "215",
+        "NIPCode": "000011",
+        "Name": "UNITY BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000011.png",
+        "category": "2"
+    },
+    {
+        "Id": 488,
+        "NIPCode": "110009",
+        "Name": "Venture Garden Nigeria Limited"
+    },
+    {
+        "Id": "2b53b1c5-b333-40af-a7a1-b21518a653b1",
+        "CBNCode": "566",
+        "NIPCode": "090110",
+        "Name": "VFD MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090110.png",
+        "category": "9"
+    },
+    {
+        "Id": "d8a325bf-83cd-4119-a6ec-6a0f5c4cef0b",
+        "CBNCode": "950",
+        "NIPCode": "090150",
+        "Name": "VIRTUE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090150.png",
+        "category": "9"
+    },
+    {
+        "Id": "5df9fcce-55ef-4e72-b13c-8692faa665d6",
+        "CBNCode": "944",
+        "NIPCode": "090139",
+        "Name": "VISA MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090139.png",
+        "category": "9"
+    },
+    {
+        "Id": "35b478fd-e525-4f47-a2c0-36cdc3ecbc22",
+        "CBNCode": "320",
+        "NIPCode": "100012",
+        "Name": "VTNETWORKS",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100012.png",
+        "category": "10"
+    },
+    {
+        "Id": "7bce0b94-e7d2-428c-aaa5-e3dd1464d278",
+        "CBNCode": "035",
+        "NIPCode": "000017",
+        "Name": "WEMA BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000017.png",
+        "category": "2"
+    },
+    {
+        "Id": "c7dd4a86-29fa-404d-8ce3-d7931f01b787",
+        "CBNCode": "916",
+        "NIPCode": "090120",
+        "Name": "WETLAND MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090120.png",
+        "category": "9"
+    },
+    {
+        "Id": 456,
+        "NIPCode": "090201",
+        "Name": "XPRESS PAYMENTS"
+    },
+    {
+        "Id": "1c65b9e0-a1fa-4e00-9c5b-6b60e6ea2191",
+        "CBNCode": "928",
+        "NIPCode": "090124",
+        "Name": "XSLNCE MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090124.png",
+        "category": "9"
+    },
+    {
+        "Id": "14210145-e045-4f2b-b267-ce3bf5e047e8",
+        "CBNCode": "946",
+        "NIPCode": "090142",
+        "Name": "YES MICROFINANCE BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/090142.png",
+        "category": "9"
+    },
+    {
+        "Id": "3716bd8b-6870-41b4-92b3-9c3955588c6e",
+        "CBNCode": "057",
+        "NIPCode": "000015",
+        "Name": "ZENITH BANK",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/000015.png",
+        "category": "2"
+    },
+    {
+        "Id": "be41154d-6ec0-44ae-a195-a2b1045077b3",
+        "CBNCode": "322",
+        "NIPCode": "100018",
+        "Name": "ZENITH MOBILE",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100018.png",
+        "category": "10"
+    },
+    {
+        "Id": "48f63043-a08c-45b8-b7cb-add7d280f8b6",
+        "CBNCode": "912",
+        "NIPCode": "100025",
+        "Name": "KONGAPAY",
+        "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/100025.png",
+        "category": "10"
+    }
+]
